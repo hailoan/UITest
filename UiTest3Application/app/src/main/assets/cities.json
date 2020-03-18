@@ -1,0 +1,258 @@
+{
+    "Cities": [
+        {
+            "CityCode": null,
+            "Name": "Hà Nội"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hà Giang"
+        },
+        {
+            "CityCode": null,
+            "Name": "Cao Bằng"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bắc Kạn"
+        },
+        {
+            "CityCode": null,
+            "Name": "Tuyên Quang"
+        },
+        {
+            "CityCode": null,
+            "Name": "Lào Cai"
+        },
+        {
+            "CityCode": null,
+            "Name": "Điện Biên"
+        },
+        {
+            "CityCode": null,
+            "Name": "Lai Châu"
+        },
+        {
+            "CityCode": null,
+            "Name": "Sơn La"
+        },
+        {
+            "CityCode": null,
+            "Name": "Yên Bái"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hòa Bình"
+        },
+        {
+            "CityCode": null,
+            "Name": "Thái Nguyên"
+        },
+        {
+            "CityCode": null,
+            "Name": "Lạng Sơn"
+        },
+        {
+            "CityCode": null,
+            "Name": "Quảng Ninh"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bắc Giang"
+        },
+        {
+            "CityCode": null,
+            "Name": "Phú Thọ"
+        },
+        {
+            "CityCode": null,
+            "Name": "Vĩnh Phúc"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bắc Ninh"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hải Dương"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hải Phòng"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hưng Yên"
+        },
+        {
+            "CityCode": null,
+            "Name": "Thái Bình"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hà Nam"
+        },
+        {
+            "CityCode": null,
+            "Name": "Nam Định"
+        },
+        {
+            "CityCode": null,
+            "Name": "Ninh Bình"
+        },
+        {
+            "CityCode": null,
+            "Name": "Thanh Hóa"
+        },
+        {
+            "CityCode": null,
+            "Name": "Nghệ An"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hà Tĩnh"
+        },
+        {
+            "CityCode": null,
+            "Name": "Quảng Bình"
+        },
+        {
+            "CityCode": null,
+            "Name": "Quảng Trị"
+        },
+        {
+            "CityCode": null,
+            "Name": "Thừa Thiên Huế"
+        },
+        {
+            "CityCode": null,
+            "Name": "Đà Nẵng"
+        },
+        {
+            "CityCode": null,
+            "Name": "Quảng Nam"
+        },
+        {
+            "CityCode": null,
+            "Name": "Quảng Ngãi"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bình Định"
+        },
+        {
+            "CityCode": null,
+            "Name": "Phú Yên"
+        },
+        {
+            "CityCode": null,
+            "Name": "Khánh Hòa"
+        },
+        {
+            "CityCode": null,
+            "Name": "Ninh Thuận"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bình Thuận"
+        },
+        {
+            "CityCode": null,
+            "Name": "Kon Tum"
+        },
+        {
+            "CityCode": null,
+            "Name": "Gia Lai"
+        },
+        {
+            "CityCode": null,
+            "Name": "Đắk Lắk"
+        },
+        {
+            "CityCode": null,
+            "Name": "Đắk Nông"
+        },
+        {
+            "CityCode": null,
+            "Name": "Lâm Đồng"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bình Phước"
+        },
+        {
+            "CityCode": null,
+            "Name": "Tây Ninh"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bình Dương"
+        },
+        {
+            "CityCode": null,
+            "Name": "Đồng Nai"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bà Rịa - Vũng Tàu"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hồ Chí Minh"
+        },
+        {
+            "CityCode": null,
+            "Name": "Long An"
+        },
+        {
+            "CityCode": null,
+            "Name": "Tiền Giang"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bến Tre"
+        },
+        {
+            "CityCode": null,
+            "Name": "Trà Vinh"
+        },
+        {
+            "CityCode": null,
+            "Name": "Vĩnh Long"
+        },
+        {
+            "CityCode": null,
+            "Name": "Đồng Tháp"
+        },
+        {
+            "CityCode": null,
+            "Name": "An Giang"
+        },
+        {
+            "CityCode": null,
+            "Name": "Kiên Giang"
+        },
+        {
+            "CityCode": null,
+            "Name": "Cần Thơ"
+        },
+        {
+            "CityCode": null,
+            "Name": "Hậu Giang"
+        },
+        {
+            "CityCode": null,
+            "Name": "Sóc Trăng"
+        },
+        {
+            "CityCode": null,
+            "Name": "Bạc Liêu"
+        },
+        {
+            "CityCode": null,
+            "Name": "Cà Mau"
+        }
+    ],
+    "CityCode": null,
+    "Name": "Cà Mau"
+}

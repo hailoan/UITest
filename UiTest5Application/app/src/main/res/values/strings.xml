@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UiTest5Application</string>
+    <string name="input_text">Input text</string>
+
+</resources>
